@@ -1,7 +1,7 @@
 # 1st Project M-Tech
 
-This was my first project while I was learning Python.
-It simulates a simple store management system.
+This was my first project while I was learning Python back in September 2020, as part of the Data Science programme of Banco Santander-EM-Tech.
+It simulates a simple store management system and was designed to practice core programming concepts. 
 
 The program includes:
 - User registration and login.
